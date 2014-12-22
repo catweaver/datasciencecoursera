@@ -1,0 +1,11 @@
+Code book
+
+There are 4 variables in the wearables data set.
+
+The first variable describes the type of activity generating the measurement.
+
+The second variable is the number of the subject performing the activity
+
+The third variable is the type of measurement recorded by the wearable device, including direction.
+ 
+The final variable is the mean of all observed measurements for the provided combination of activity, subject, and measurement.
